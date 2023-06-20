@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Snort-Rules](https://github.com/xill75/Snort-Rules)
 
-- ⚡ Fun fact **I have a Begginer level in HEMA**
+- ⚡ Fun fact **I have an Advenced level in HEMA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
