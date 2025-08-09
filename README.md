@@ -44,6 +44,9 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     </a>
+     <a href="https://yara.readthedocs.io" target="_blank" rel="noreferrer">
+        <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*O6usqywvwHQhuOFDBH6-XA.jpeg" alt="yara" width="40" height="40"/>
+    </a>
 </p>
 
 
