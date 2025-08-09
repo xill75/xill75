@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
-<h3 align="center">Im a Cybersecurity Student by PUCPR</h3>
+<h3 align="center">Im a Malware Analyst and Cybersecurity Bachelor </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xill75&label=Profile%20views&color=0e75b6&style=flat" alt="xill75" /> </p>
 
-- 🔭 I’m currently working on [MalwareApp](https://github.com/xill75/Malware-app)
-
-- ⚡ Fun fact **I have an Advenced level in HEMA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
